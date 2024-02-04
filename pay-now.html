@@ -22,7 +22,6 @@
 <link href="css/fonts/fonts.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
 <meta name="robots" content="noindex, nofollow" />
-.
 </head>
 
 <body>
@@ -44,7 +43,7 @@
 <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-<header class="topnav p-4 position-fixed ">
+<header class="topnav p-4 position-fixed" style="top: 0px; background: rgb(15, 1, 15);">
         <div class="row">
             <div class="col-md-6">
                 <a href="index.html" class="nav-brand"><img src="img/horizontal-white.svg" width="300" height="50"
@@ -52,11 +51,11 @@
             </div>
             <div class="col-md-6 mobilemenu">
                 <ul class="d-flex">
-                    <li><a href="#thirdsection" class="linkbtn">About</a></li>
-                    <li><a href="#eleventhsection" class="linkbtn">Projects</a></li>
-                    <li><a href="#fourteenthsection" class="linkbtn">Team</a></li>
-                    <li><a href="#fifteenthsection" class="linkbtn">Contact</a></li>
-                    <li><a href="pay-now.html" class="btn btn-primary linkbtn" >Pay Now</a></li>
+                  <li><a href="/#thirdsection" onclick='window.location.href="/#thirdsection"' class="linkbtn">About</a></li>
+                  <li><a href="/#eleventhsection" onclick='window.location.href="/#eleventhsection"' class="linkbtn">Projects</a></li>
+                  <li><a href="/#fourteenthsection" onclick='window.location.href="/#fourteenthsection"' class="linkbtn">Team</a></li>
+                  <li><a href="/#fifteenthsection" onclick='window.location.href="/#fifteenthsection"' class="linkbtn">Contact</a></li>
+                  <li><a href="/pay-now.html"  onclick='window.location.href="/pay-now.html"'  class="btn btn-primary linkbtn" >Pay Now</a></li>
                 </ul>
             </div>
         </div>
@@ -64,25 +63,18 @@
     
 
   
-  <div class="container-fluid white-bg ">
-        <div class="row" id="thirdsection">
-          <div class="col-md-10 mx-auto">
-            <div class="container cn-form" id="fifteenthsection">
-        <div class="row  justify-content-center ">
-           
-          
-            <div class="col-md-4 lhs">
-                
-               
+  <div class="container-fluid white-bg innerbg">
+    <div class="container">
+        <div class="row cn-form justify-content-center py-lg-5">
+            <div class="col-md-4 lhs py-5">
+              <div class="py-5 d-flex justify-content-center align-items-center flex-column">
                  <img src="img/secure.png" width="135" height="135" alt=""/>
                 <img src="img/pay-with.png" width="100" height="38" alt=""/> 
-                
-               
+                </div>
             </div>
-            <div class="col-md-6 p-5 rhs" >
-                <h3>Pay Now</h3>
-                
-                <form>
+            <div class="col-md-6 p-5 rhs">
+                <h3 class="px-lg-5">Pay Now</h3>
+                <form class="px-lg-5">
                     <div class="footerform">
                     <input type="text" placeholder="First Name">
                     <input type="text" placeholder="Last Name">
@@ -101,11 +93,8 @@
                     <button type="submit" class="w-100 p-2">Submit</button>
                 </form>
             </div>
-        </div>
-    </div>
-            </div>
-        </div>
-    </div>
+            </div></div></div>
+        
 
 
 
