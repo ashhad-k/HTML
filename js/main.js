@@ -1,1 +1,313 @@
-const _0x50a87f=_0x45dc;(function(_0x333bc9,_0x48534f){const _0x1bfc84=_0x45dc,_0x39d7e3=_0x333bc9();while(!![]){try{const _0x30b74c=parseInt(_0x1bfc84(0xbc))/0x1*(-parseInt(_0x1bfc84(0xa6))/0x2)+-parseInt(_0x1bfc84(0xbe))/0x3*(parseInt(_0x1bfc84(0xd2))/0x4)+parseInt(_0x1bfc84(0x9c))/0x5+-parseInt(_0x1bfc84(0xac))/0x6*(-parseInt(_0x1bfc84(0x9d))/0x7)+parseInt(_0x1bfc84(0xda))/0x8+parseInt(_0x1bfc84(0xd4))/0x9*(-parseInt(_0x1bfc84(0xc4))/0xa)+-parseInt(_0x1bfc84(0xcd))/0xb*(-parseInt(_0x1bfc84(0xc5))/0xc);if(_0x30b74c===_0x48534f)break;else _0x39d7e3['push'](_0x39d7e3['shift']());}catch(_0x38797c){_0x39d7e3['push'](_0x39d7e3['shift']());}}}(_0x20a5,0xc445b));function _0x20a5(){const _0x38b4bf=['40px','slick','.sliderone','right','removeClass','1032HZAZkj','init','secondsection','getBoundingClientRect','DOMContentLoaded','style','scroll','body','clicked','toggle','classList','preloader','onhold','innerHeight','add','#mmtoggle','394NsDqtZ','observe','3543QDrHhx','addEventListener','linear','click','0px\x200px\x20-50px\x200px','firstsection','3040GDEwug','12VgHFAD','opacity','#0F010F','thirdsection','length','attr','disconnect','.linkbtn','16293662UpvwqY','.imagehead,\x20.imagehead2','onload','showbox','.topnav','1104uijpxa','forEach','531XweoZY','overflow','querySelectorAll','target','querySelector','.imagecard','2751720pnWqKJ','none','animate','.showbox','onscroll','-100px','remove','top','swing','hidden','pageYOffset','isIntersecting','getElementById','left','html,\x20body','offset','2047200NSlMdD','8267FxTgBz','background','mmtoggle','[data-splitting]','sticktop','hiddenloader','resize','load','innerWidth','6548UxMtfX'];_0x20a5=function(){return _0x38b4bf;};return _0x20a5();}function handleScroll(){const _0x4dab02=_0x45dc,_0x2e32d1=document['getElementById'](_0x4dab02(0xc3)),_0x3475e9=document['getElementById'](_0x4dab02(0xae)),_0x1eafc5=document['getElementById'](_0x4dab02(0xc8)),_0x3215d7=_0x1eafc5[_0x4dab02(0xaf)](),_0x151688=_0x3215d7['top']<=0x0;_0x2e32d1[_0x4dab02(0xb6)][_0x4dab02(0xb5)](_0x4dab02(0x95),_0x151688),_0x3475e9[_0x4dab02(0xb6)][_0x4dab02(0xb5)](_0x4dab02(0x95),_0x151688);}window[_0x50a87f(0xbf)]('scroll',handleScroll),$(_0x50a87f(0xd9))[_0x50a87f(0xa8)]({'slidesToShow':0x4,'slidesToScroll':0x1,'autoplay':!![],'loop':!![],'autoplaySpeed':0x3e8,'centerMode':!![],'focusOnSelect':!![],'cssEase':'linear','pauseOnHover':!![],'responsive':[{'breakpoint':0x300,'settings':{'arrows':![],'centerMode':!![],'centerPadding':'40px','slidesToShow':0x2}},{'breakpoint':0x1e0,'settings':{'arrows':![],'centerMode':!![],'centerPadding':_0x50a87f(0xa7),'slidesToShow':0x1}}]}),$(_0x50a87f(0xa9))[_0x50a87f(0xa8)]({'dots':![],'arrow':![],'infinite':!![],'autoplaySpeed':0x9c4,'speed':0x3e8,'fade':!![],'cssEase':_0x50a87f(0xc0),'autoplay':!![],'pauseOnHover':![]}),$('.slidertwo')[_0x50a87f(0xa8)]({'slidesToShow':0x2,'slidesToScroll':0x1,'autoplay':![],'cssEase':'linear','pauseOnHover':![],'arrows':!![],'dots':!![],'centerMode':![],'focusOnSelect':![],'responsive':[{'breakpoint':0x300,'settings':{'arrows':![],'centerMode':!![],'centerPadding':_0x50a87f(0xa7),'slidesToShow':0x1}},{'breakpoint':0x1e0,'settings':{'arrows':![],'centerMode':!![],'centerPadding':'40px','slidesToShow':0x1}}]});function isElementInCenter(_0x3549b6){const _0x121fe3=_0x50a87f,_0x1f0753=_0x3549b6['getBoundingClientRect'](),_0x4427cd=window[_0x121fe3(0xa5)]/0x2,_0x3917b4=window[_0x121fe3(0xb9)]/0x2;return _0x1f0753[_0x121fe3(0x99)]<=_0x4427cd&&_0x1f0753[_0x121fe3(0xaa)]>=_0x4427cd&&_0x1f0753[_0x121fe3(0x93)]<=_0x3917b4;}function addClassAndScaleIfInCenter(){const _0xffdaa2=_0x50a87f,_0x5427a4=document[_0xffdaa2(0xd6)](_0xffdaa2(0xce));_0x5427a4[_0xffdaa2(0xd3)](_0x1e41bf=>{const _0x224f1c=_0xffdaa2,_0x91850a=isElementInCenter(_0x1e41bf);_0x91850a?_0x1e41bf[_0x224f1c(0xb6)]['add']('centered'):_0x1e41bf[_0x224f1c(0xb6)]['remove']('centered');});}window[_0x50a87f(0xbf)](_0x50a87f(0xa4),addClassAndScaleIfInCenter),window[_0x50a87f(0xbf)](_0x50a87f(0xa3),addClassAndScaleIfInCenter),window['addEventListener'](_0x50a87f(0xb2),addClassAndScaleIfInCenter);const menubtn=document[_0x50a87f(0x98)](_0x50a87f(0x9f)),menuopen=document[_0x50a87f(0xd8)]('.mobilemenu');function addClassOnClick(){const _0x334f55=_0x50a87f;menubtn[_0x334f55(0xb6)][_0x334f55(0xb5)]('clicked'),menuopen[_0x334f55(0xb6)][_0x334f55(0xb5)]('openmenu'),document[_0x334f55(0xd8)](_0x334f55(0xd1))[_0x334f55(0xb6)][_0x334f55(0xb5)](_0x334f55(0xa1));}menubtn['addEventListener']('click',addClassOnClick),$(_0x50a87f(0xcc))['on'](_0x50a87f(0xc1),function(_0x5698f4){const _0x164a87=_0x50a87f;$(_0x164a87(0xbb))[_0x164a87(0xab)](_0x164a87(0xb4));;$('.mobilemenu')[_0x164a87(0xab)]('openmenu'),_0x5698f4['preventDefault']();const _0x42df26=$($(this)[_0x164a87(0xca)]('href'));_0x42df26[_0x164a87(0xc9)]&&$(_0x164a87(0x9a))[_0x164a87(0xdc)]({'scrollTop':_0x42df26[_0x164a87(0x9b)]()['top']},{'duration':0x3e8,'easing':_0x164a87(0x94)});}),document[_0x50a87f(0xbf)](_0x50a87f(0xb0),function(){const _0x3f4825=_0x50a87f;var _0x2085d8=document['querySelector']('body'),_0x7bbbfa=document[_0x3f4825(0x98)](_0x3f4825(0xb7));_0x2085d8['classList'][_0x3f4825(0xba)]('onhold'),window[_0x3f4825(0xcf)]=function(){const _0x18f41d=_0x3f4825;_0x2085d8[_0x18f41d(0xb6)]['remove'](_0x18f41d(0xb8)),_0x7bbbfa[_0x18f41d(0xb6)]['add'](_0x18f41d(0xa2)),document[_0x18f41d(0xb3)]['style'][_0x18f41d(0xd5)]='auto';};});let prevScrollPos=window[_0x50a87f(0x96)];window[_0x50a87f(0x90)]=function(){const _0x174b89=_0x50a87f;let _0x2fcab7=window['pageYOffset'];prevScrollPos>_0x2fcab7?(document[_0x174b89(0xd8)](_0x174b89(0xd1))['style']['top']='0',document['querySelector'](_0x174b89(0xd1))[_0x174b89(0xb1)][_0x174b89(0x9e)]=_0x174b89(0xc7)):(document['querySelector']('.topnav')[_0x174b89(0xb1)]['top']=_0x174b89(0x91),document[_0x174b89(0xd8)](_0x174b89(0xd1))[_0x174b89(0xb1)][_0x174b89(0x9e)]=_0x174b89(0xdb)),setTimeout(()=>{prevScrollPos=_0x2fcab7;},0x5dc);};function addClassToElements(_0x8b8e89){const _0x3a0464=_0x50a87f;var _0x5694a8=_0x8b8e89['id'],_0x510bc4=_0x5694a8,_0x368dd1=document[_0x3a0464(0xd6)]('.'+_0x510bc4);_0x368dd1[_0x3a0464(0xd3)](function(_0x5c9c20){const _0x5ec091=_0x3a0464;_0x5c9c20[_0x5ec091(0xb6)][_0x5ec091(0xba)]('showbox');});}function hidebox(){const _0x360546=_0x50a87f;var _0x20591d=document[_0x360546(0xd6)](_0x360546(0xdd));_0x20591d[_0x360546(0xd3)](function(_0x1c769e){const _0x4f78cc=_0x360546;_0x1c769e[_0x4f78cc(0xb6)][_0x4f78cc(0x92)](_0x4f78cc(0xd0));});}function _0x45dc(_0xd28577,_0x2d9485){const _0x20a528=_0x20a5();return _0x45dc=function(_0x45dc56,_0x115838){_0x45dc56=_0x45dc56-0x90;let _0x7a3f7a=_0x20a528[_0x45dc56];return _0x7a3f7a;},_0x45dc(_0xd28577,_0x2d9485);}Splitting(),ScrollOut({'targets':_0x50a87f(0xa0)}),document['addEventListener']('DOMContentLoaded',function(){const _0x1f1694=_0x50a87f;new WOW()[_0x1f1694(0xad)]();const _0x51905f=document[_0x1f1694(0xd6)]('.repeatable-animation'),_0x590535=(_0x17543f,_0xe12e7a)=>{let _0x320603;return function _0xb0ca38(..._0x39414d){const _0x15d6ff=()=>{clearTimeout(_0x320603),_0x17543f(..._0x39414d);};clearTimeout(_0x320603),_0x320603=setTimeout(_0x15d6ff,_0xe12e7a);};},_0x4bd8da=_0x4012c2=>{const _0x170f01=_0x1f1694;_0x4012c2[_0x170f01(0xd3)](_0x25fc04=>{const _0x58e1b0=_0x170f01;_0x25fc04[_0x58e1b0(0x97)]?_0x25fc04[_0x58e1b0(0xd7)]['style'][_0x58e1b0(0xc6)]=0x1:_0x25fc04[_0x58e1b0(0xd7)][_0x58e1b0(0xb1)][_0x58e1b0(0xc6)]=0x0;});},_0x6ce18d=new IntersectionObserver(_0x4bd8da,{'threshold':0.5,'rootMargin':_0x1f1694(0xc2)});_0x51905f[_0x1f1694(0xd3)](_0x5e0e01=>{const _0x1f7896=_0x1f1694;_0x6ce18d[_0x1f7896(0xbd)](_0x5e0e01);});const _0x43ce7b=_0x590535(()=>{const _0x2e5480=_0x1f1694;_0x6ce18d[_0x2e5480(0xcb)](),_0x51905f[_0x2e5480(0xd3)](_0x5a3183=>{_0x6ce18d['observe'](_0x5a3183);});},0x32);window[_0x1f1694(0xbf)]('scroll',_0x43ce7b);});
+function handleScroll() {
+    const firstSection = document.getElementById('firstsection');
+    const secondsection = document.getElementById('secondsection');
+    const thirdSection = document.getElementById('thirdsection');
+  
+    const thirdSectionRect = thirdSection.getBoundingClientRect();
+  
+    // Check if #thirdsection touches the top
+    const isTouchingTop = thirdSectionRect.top <= 0;
+  
+    // Toggle the 'hidden' class based on the condition
+    firstSection.classList.toggle('hidden', isTouchingTop);
+    secondsection.classList.toggle('hidden', isTouchingTop);
+  }
+  
+  window.addEventListener('scroll', handleScroll);
+  
+  $('.imagecard').slick({
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    autoplay: true,
+    loop:true,
+    autoplaySpeed: 1000,
+    centerMode: true,
+    focusOnSelect: true,
+    cssEase: 'linear',
+    pauseOnHover:true,
+    responsive: [
+        {
+            breakpoint: 991,
+            settings: {
+                arrows: false,
+                centerMode: true,
+                centerPadding: '40px',
+                slidesToShow: 1
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                arrows: false,
+                centerMode: true,
+                centerPadding: '40px',
+                slidesToShow: 1
+            }
+        }
+    ]
+  
+  
+  });
+  $('.sliderone').slick({
+    dots: false,
+    arrow:false,
+    infinite: true,
+    autoplaySpeed: 2500,
+    speed:1000,
+    fade: true,
+    cssEase: 'linear',
+    autoplay: true,
+    pauseOnHover:false
+  });
+  $('.slidertwo').slick({
+    slidesToShow: 2,
+    slidesToScroll: 1,
+    autoplay: false,
+    cssEase: 'linear',
+    pauseOnHover: false,
+    arrows: true,
+    dots: true,
+    centerMode: false,
+    focusOnSelect: false,
+    responsive: [
+        {
+            breakpoint: 991,
+            settings: {
+                arrows: true,
+                centerMode: false,
+                focusOnSelect: false,
+                centerPadding: '40px',
+                slidesToShow: 1
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                arrows: true,
+                centerMode: false,
+                centerPadding: '40px',
+                slidesToShow: 1
+            }
+        }
+    ]
+  });
+  function isElementInCenter(element) {
+    const rect = element.getBoundingClientRect();
+    const centerX = window.innerWidth / 2;
+    const centerY = window.innerHeight / 2;
+  
+    return (
+        rect.left <= centerX &&
+        rect.right >= centerX &&
+        rect.top <= centerY
+      //  rect.bottom >= centerY
+    );
+  }
+  
+  // Function to add a class to the element when it's in the center
+  function addClassAndScaleIfInCenter() {
+    const elements = document.querySelectorAll('.imagehead, .imagehead2');
+  
+    elements.forEach((element) => {
+      const isInCenter = isElementInCenter(element);
+  
+      if (isInCenter) {
+        element.classList.add('centered');
+      } else {
+        element.classList.remove('centered');
+      }
+    });
+  }
+  
+  // Call the function on page load and when the window is resized or scrolled
+  window.addEventListener('load', addClassAndScaleIfInCenter);
+  window.addEventListener('resize', addClassAndScaleIfInCenter);
+  window.addEventListener('scroll', addClassAndScaleIfInCenter);
+  
+  const menubtn = document.getElementById('mmtoggle');
+  const menuopen = document.querySelector('.mobilemenu');
+  function addClassOnClick() {
+    menubtn.classList.toggle('clicked');
+    menuopen.classList.toggle('openmenu');
+    document.querySelector(".topnav").classList.toggle('sticktop');
+    
+  }
+  menubtn.addEventListener('click', addClassOnClick);
+  
+  $('.linkbtn').on('click', function (e) {
+    $('#mmtoggle').removeClass('clicked');;
+    $('.mobilemenu').removeClass('openmenu');
+    
+    e.preventDefault();
+  
+    const target = $($(this).attr('href'));
+    if (target.length) {
+        $('html, body').animate({
+            scrollTop: target.offset().top
+        }, {
+            duration: 1000, // Adjust the duration (in milliseconds) as needed
+            easing: 'swing'
+        }); // Adjust the duration (in milliseconds) as needed
+    }
+  
+  
+  });
+   
+  
+  document.addEventListener("DOMContentLoaded", function() {
+    var bodyhold = document.querySelector("body");
+    var preloader = document.getElementById("preloader");
+  
+    bodyhold.classList.add("onhold");
+  
+    window.onload = function() {
+      // Add a class to initiate the fade out
+      bodyhold.classList.remove("onhold");
+      preloader.classList.add("hiddenloader");
+      document.body.style.overflow = "auto"; // Allow scrolling after preloader is hidden
+    };
+  });
+  
+  
+  
+  
+    let prevScrollPos = window.pageYOffset;
+  
+      window.onscroll = function() {
+        let currentScrollPos = window.pageYOffset;
+  
+        if (prevScrollPos > currentScrollPos) {
+          document.querySelector(".topnav").style.top = "0";
+          document.querySelector(".topnav").style.background = "#0F010F";
+        } else {
+          document.querySelector(".topnav").style.top = "-100px"; // Adjust as needed
+          document.querySelector(".topnav").style.background = "none";
+        }
+  
+        setTimeout(() => {
+          
+          prevScrollPos = currentScrollPos;
+        }, 1500);
+      }
+  
+  
+      
+  
+      /*document.addEventListener("DOMContentLoaded", function () {
+        var lazyLoadSection = document.getElementById("firstsection");
+        var video;
+  
+        var options = {
+            root: null,
+            rootMargin: "0px",
+            threshold: 0.5
+        };
+  
+        var callback = function (entries, observer) {
+            entries.forEach(function (entry) {
+                if (entry.isIntersecting) {
+                    // Load and play the video when the section is in the viewport
+                    video = document.createElement("video");  
+                    video.src = "../greengroup/img/hero.webm"; // Replace with the path to your video
+                    video.autoplay = true;
+                    video.loop = true;
+                    video.playsInline = true;
+  
+                    video.poster = "../greengroup/img/hero.jpg"; // Replace with the path to your poster image
+  
+                    lazyLoadSection.appendChild(video);
+  
+  
+                    // Stop observing once the video is loaded
+                    observer.unobserve(lazyLoadSection);
+                }
+            });
+        };
+  
+        var observer = new IntersectionObserver(callback, options);
+        observer.observe(lazyLoadSection);
+    });
+    */
+  
+    function addClassToElements(clickedElement) {
+      // Get the ID of the clicked element
+      var clickedID = clickedElement.id;
+    
+      // Derive the class name from the clicked ID
+      var className = clickedID;
+    
+      // Get all elements with the derived class name
+      var elements = document.querySelectorAll(' .' + className);
+    
+      // Add the "showbox" class to each element
+      elements.forEach(function(element) {
+        element.classList.add('showbox');
+      });
+    }
+    
+  
+  function hidebox() {
+    // Get all elements with the "showbox" class
+    var elements = document.querySelectorAll('.showbox');
+  
+    // Remove the "showbox" class from each element
+    elements.forEach(function(element) {
+        element.classList.remove('showbox');
+    });
+  }
+  
+  
+  Splitting();
+  ScrollOut({
+     targets: '[data-splitting]'
+  });
+   
+  
+  
+  document.addEventListener('DOMContentLoaded', function() {
+    new WOW().init();
+  
+    const repeatableElements = document.querySelectorAll('.repeatable-animation');
+  
+    const debounce = (func, wait) => {
+        let timeout;
+        return function executedFunction(...args) {
+            const later = () => {
+                clearTimeout(timeout);
+                func(...args);
+            };
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+        };
+    };
+  
+    const handleIntersection = entries => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.style.opacity = 1;
+            } else {
+                entry.target.style.opacity = 0;
+            }
+        });
+    };
+  
+    const observer = new IntersectionObserver(handleIntersection, {
+        threshold: 0.5,
+        rootMargin: '0px 0px 150px 0px' // Adjust root margin as needed
+    });
+  
+    repeatableElements.forEach(element => {
+        observer.observe(element);
+    });
+  
+    const handleScroll = debounce(() => {
+        observer.disconnect();
+        repeatableElements.forEach(element => {
+            observer.observe(element);
+        });
+    }, 50); // Adjust debounce wait time as needed
+  
+    window.addEventListener('scroll', handleScroll);
+  });
+  
+   
